@@ -14,3 +14,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 : sad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（难过）,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 : surprise&nbsp;（惊喜）,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 : neutral&nbsp;&nbsp;&nbsp;（平静）。  
+
+
+参考文档：http://www.sohu.com/a/241777198_787107
